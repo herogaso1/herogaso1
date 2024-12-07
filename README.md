@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @herogaso1  
-- 👀 I’m interested in developer
+- 👀 I’m interested in beginer developer
 - 🌱 I’m currently learning at home 
 
 <!---
